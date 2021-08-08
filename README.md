@@ -1,1 +1,0 @@
-# Askerria-updater
